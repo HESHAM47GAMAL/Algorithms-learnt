@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1702459634 source:h:\2.work_on_myself\c++\mostafa saad_1_do\sorting_algorithms\main.cpp
+	<iostream>
+	<assert.h>
+	"SortAlgorithm.h"
+
+1702459648 h:\2.work_on_myself\c++\mostafa saad_1_do\sorting_algorithms\sortalgorithm.h
+
+1702459783 source:h:\2.work_on_myself\c++\mostafa saad_1_do\sorting_algorithms\sortalgorithm.cpp
+	"SortAlgorithm.h"
+
